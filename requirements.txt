@@ -1,0 +1,9 @@
+streamlit
+pandas
+joblib
+numpy
+scikit-learn
+flask
+uvicorn==0.42.0
+
+
