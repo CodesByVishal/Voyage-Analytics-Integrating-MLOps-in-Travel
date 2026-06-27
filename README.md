@@ -1,11 +1,4 @@
 ﻿# Voyage Analytics — Integrating MLOps in Travel
-
-**Author:** Vishal Kumar Singh
-**Institution:** AlmaBetter — M.Sc. Data Science
-**Year:** 2026
-**Contribution:** Individual
-**GitHub:** https://github.com/CodesByVishal/Voyage-Analytics-Integrating-MLOps-in-Travel
-
 ---
 
 ## Project Overview
